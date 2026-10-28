@@ -32,6 +32,7 @@
 reknow-docs/
 ├── README.md                    # 本文件：总览与文档导航
 ├── docs.json                    # Mintlify 导航配置
+├── images/                      # 产品界面截图（文档内以 /images/xxx.png 引用）
 │
 ├── zh/                          # 中文文档
 │   ├── Overview.md              # 产品概览
