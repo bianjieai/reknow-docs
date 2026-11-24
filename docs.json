@@ -1,12 +1,12 @@
 {
   "theme": "mint",
-  "name": "睿阁",
+  "name": "边界睿阁",
   "colors": {
-    "primary": "#0057ff",
-    "light": "#0066ff",
-    "dark": "#0057ff"
+    "primary": "#315DF5",
+    "light": "#315DF5",
+    "dark": "#1F3A8A"
   },
-  "description": "用户手册｜涵盖睿阁知识库搭建、智能体管理、团队协作、对话问答全流程操作指南，助你快速构建企业级 AI 知识中枢。",
+  "description": "用户手册｜涵盖边界睿阁知识库搭建、智能体管理、团队协作、对话问答全流程操作指南，助你快速构建企业级 AI 知识中枢。",
   "navigation": {
     "languages": [
       {
@@ -40,7 +40,10 @@
               "zh/how-to/04-agent-settings",
               "zh/how-to/05-team",
               "zh/how-to/06-chat",
-              "zh/how-to/07-global-search"
+              "zh/how-to/07-global-search",
+              "zh/how-to/08-document-import",
+              "zh/how-to/09-account-authorization",
+              "zh/how-to/10-im-bot"
             ]
           },
           {
