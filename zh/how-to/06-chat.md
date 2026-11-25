@@ -116,7 +116,9 @@ title: "对话与问答"
 
 ### 6. 消息发送
 
-![多轮对话](/images/ht-06-conversation.png)
+![多轮对话与文档来源](/images/ht-06-conversation.png)
+
+回答下方可展开工具轨迹；右侧「**文档来源**」列出被引用的原文文档与分块。
 
 - 按 **Enter** 发送消息。
 - 按 **Shift+Enter** 换行。
