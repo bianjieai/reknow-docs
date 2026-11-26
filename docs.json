@@ -77,5 +77,14 @@
   },
   "search": {
     "prompt": "搜索"
-  }
+  },
+  "logo": {
+    "light": "/images/logo-light.svg",
+    "dark": "/images/logo-dark.svg"
+  },
+  "favicon": "/favicon.ico",
+  "styling": {
+    "css": "styles.css"
+  },
+  "css": "./styles.css"
 }
