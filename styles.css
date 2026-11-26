@@ -1,0 +1,14 @@
+/* 品牌规范：顶栏 Logo 高度 ≥ 44px */
+img[src*="logo-light"],
+img[src*="logo-dark"],
+a[href="/"] img,
+header img {
+  height: 44px !important;
+  width: auto !important;
+}
+.navbar-logo img,
+#navbar img,
+.navbar__logo img {
+  height: 44px !important;
+  width: auto !important;
+}
